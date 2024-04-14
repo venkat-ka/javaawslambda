@@ -1,0 +1,5 @@
+Refered Here
+https://github.com/bharaththippireddy/serverlessusingawslambda
+
+Udemy
+https://www.udemy.com/course/serverless-programming-using-aws-lambda-for-java-developers/learn/lecture/23979526#search
